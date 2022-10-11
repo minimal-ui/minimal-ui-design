@@ -1,0 +1,6 @@
+{
+  "extends": "@minimal-ui-design/ts-config/base.json",
+  "include": [
+    "src"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@minimal-ui-design/angular",
+  "version": "0.1.4",
+  "peerDependencies": {
+    "@angular/common": "^14.2.0",
+    "@angular/core": "^14.2.0",
+    "@minimal-ui-design/ts-config": "*",
+    "@minimal-ui-design/tokens": "*"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
